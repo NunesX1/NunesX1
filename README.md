@@ -15,7 +15,7 @@
 
 ## 🚀 Projeto atual
 
-### 🛡️ Mini SOC
+### 🛡️ [Mini SOC](https://github.com/nuneslabs/Mini-Soc)
 
 Sistema de detecção e análise de incidentes para estudo de logs, Python e fundamentos de cibersegurança.
 
