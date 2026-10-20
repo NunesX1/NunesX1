@@ -1,4 +1,9 @@
-# 👋 Olá, eu sou Nunes!
+<div align="center"
+<img width="640" height="292" alt="1792533962409" src="https://github.com/user-attachments/assets/11eb05b2-fcf9-471e-b77b-14ac85ab3821" />
+
+</div>
+
+### 'Caio Nunes'
 
 🎓 Estudante de Engenharia de Software  
 🔐 Interessado em Cibersegurança  
