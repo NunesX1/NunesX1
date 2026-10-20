@@ -1,6 +1,6 @@
-<div align="center"
-  <img width="534" height="332" alt="image" src="https://github.com/user-attachments/assets/65d1e4e0-69f0-4cc4-b41a-f29bae239a62" />
-</div>
+<p align="center">
+ <img width="1191" height="445" alt="image" src="https://github.com/user-attachments/assets/be4f1e2f-1c8d-459b-8a23-920f048d9399" />
+</p>
 
 ### `Caio Nunes`
 
