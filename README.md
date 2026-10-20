@@ -1,5 +1,5 @@
 <div align="center"
-   <img width="640" height="292" alt="1792533962409" src="https://github.com/user-attachments/assets/11eb05b2-fcf9-471e-b77b-14ac85ab3821" />
+  <img width="534" height="332" alt="image" src="https://github.com/user-attachments/assets/65d1e4e0-69f0-4cc4-b41a-f29bae239a62" />
 </div>
 
 ### `Caio Nunes`
