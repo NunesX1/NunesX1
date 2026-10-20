@@ -1,57 +1,29 @@
-<p align="center">
+<div align="center">
  <img width="1191" height="445" alt="image" src="https://github.com/user-attachments/assets/be4f1e2f-1c8d-459b-8a23-920f048d9399" />
-</p>
+</div>
 
 ### `Caio Nunes`
 
-🎓 Estudante de Engenharia de Software  
-🔐 Interessado em Cibersegurança  
-🐧 Explorando Linux  
-🐍 Aprendendo Python  
+Olá! Sou **Nunes**, estudante de **Engenharia de Software**.
+Estou construindo minha base em programação com **Python** e estudando desenvolvimento **Full Stack** e **Cybersecurity**.
+Sempre em busca de aprender boas práticas, lógica e novos conceitos.
 
----
+```json
+{
+ "nome": "Caio Nunes",
+ "localização": "Salvador, BA - Brasil"
+ "stack": [python]
+ "estudando": [python, logica de programação]
+ }
+```
 
-## 🛠️ Tecnologias e ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode" />
 
----
 
-## 🚀 Projeto atual
-
-### 🛡️ [Mini SOC](https://github.com/nuneslabs/Mini-Soc)
-
-Sistema de detecção e análise de incidentes para estudo de logs, Python e fundamentos de cibersegurança.
-
-**Status:** 🔄 Em desenvolvimento
-
-- ✅ Coleta de logs do sistema Linux usando Python
-- ✅ Separação dos eventos individualmente
-- ✅ Análise básica dos eventos
-- 🔄 Classificação inicial de eventos por palavras-chave
-- 📌 Planejado: detecção de tentativas de autenticação malsucedidas
-- 📌 Planejado: geração de alertas e armazenamento de eventos
-
----
-
-## 📚 Atualmente estudando
-
-- Python
-- Linux
-- Git e GitHub
-- Redes de computadores
-- Fundamentos de Cibersegurança
-- Engenharia de Software
-
----
-
-## 🎯 Objetivo
-
-Construir uma base sólida em desenvolvimento de software e direcionar gradualmente minha carreira para Cibersegurança.
-
----
-
-## 📫 Contato
+##  Contato
 
 - LinkedIn: https://www.linkedin.com/in/caio-nunes-02abb8344/
 - E-mail: caiolikkss@gmail.com
