@@ -5,7 +5,7 @@
 ### `Caio Nunes`
 
 Olá! Sou **Nunes**, estudante de **Engenharia de Software**.
-Estou construindo minha base em programação com **Python** e estudando desenvolvimento **Full Stack** e **Cybersecurity**.
+Estou construindo minha base em programação com **Python** e estudando desenvolvimento **Full Stack** e **Cibersegurança**.
 Sempre em busca de aprender boas práticas, lógica e novos conceitos.
 
 ```json
