@@ -4,16 +4,15 @@
 
 ### `Caio Nunes`
 
-Olá! Sou **Nunes**, estudante de **Engenharia de Software**.
-Estou construindo minha base em programação com **Python** e estudando desenvolvimento **Full Stack** e **Cibersegurança**.
-Sempre em busca de aprender boas práticas, lógica e novos conceitos.
-
+Hi! I'm **Nunes**, a **Software Engineering** student.
+I'm building my programming foundation with **Python** and studying **Full Stack** development and **Cybersecurity**.
+Always looking to learn best practices, logic, and new concepts.
 ```json
 {
  "nome": "Caio Nunes",
  "localização": "Salvador, BA - Brasil"
  "stack": [python]
- "estudando": [python, logica de programação]
+ "studying": [python, logica de programação]
  }
 ```
 
