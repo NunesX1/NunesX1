@@ -2,6 +2,7 @@
  <img width="1191" height="445" alt="image" src="https://github.com/user-attachments/assets/be4f1e2f-1c8d-459b-8a23-920f048d9399" />
 </div>
 
+## 👋 >_ Hello there
 ### `Caio Nunes`
 
 Hi! I'm **Nunes**, a **Software Engineering** student.
