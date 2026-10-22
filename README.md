@@ -22,7 +22,7 @@ Always looking to learn best practices, logic, and new concepts.
 
 
 
-## Contact
+## >_ Contact
 
 - LinkedIn: https://www.linkedin.com/in/caio-nunes-02abb8344/
 - E-mail: caiolikkss@gmail.com
